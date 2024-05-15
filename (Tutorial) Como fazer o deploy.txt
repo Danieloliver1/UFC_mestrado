@@ -4,7 +4,7 @@ COMO FAZER O DEPLOY
 DATA: 28/07/2023
 
 LINK:
-https://login.microsoftonline.com/6d088690-3468-430c-b686-f94c4729ae4b/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=CE1760DCC0939A11BF5DEB90FCE7D03732D2EC37EC9BA430%2D2A5AF090AEDC60316321DCB50BEED89B07553BF5429388FD8BE88B5E20905A01&redirect%5Furi=https%3A%2F%2Fdataprevrj%2Dmy%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=cde7dda0%2D409c%2D4000%2D4516%2D75d8a314b67c
+
 
 CASO TENHA DÚVIDAS SOBRE GIT/GITLAB, verifique o seguinte vídeo:
 https://www.youtube.com/watch?v=vvn2ZKnT_e8
@@ -35,7 +35,7 @@ PASSO A PASSO DEPLOY
 "
 	
 	- Após fazer o git pull, você deve COPIAR os arquivos extraídos do .zip que você baixou e COLAR na pasta do projeto onde você fez o git pull
-	(Ex.: "C:\Users\joao.mourabrito\Documents\ProjetosRepositorios\PainelBgBmob\painel-bmob\bg_bmob")
+	
 	(Windows perguntará se vc quer substituir os antigos arquivos pelos arquivos do repositório atual. PODE SUBSTITUIR!)
 
 	- Próximo passo é subir esses arquivos para a parte central (GIT COMMIT)
