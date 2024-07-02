@@ -1,0 +1,138 @@
+Parecer sobre a Avaliação dos Artigos
+
+Aluna: Daniele Carnaúba - 564320
+Título do Artigo Avaliado: "Performance Analysis of Hyperledger Fabric Platforms"
+
+Dados do Artigo
+Título:
+Sim, "Performance Analysis of Hyperledger Fabric Platforms".
+
+Nome dos Autores:
+Sim, Qassim Nasir, Ilham A. Qasse, Manar Abu Talib, e Ali Bou Nassif.
+
+Evento/Periódico em que foi Publicado:
+Sim.
+
+Ano de Publicação:
+Sim, 2018.
+
+Problema Tratado no Artigo e Objetivo do Artigo:
+Sim, claro e coeso.
+
+Dados da Avaliação de Desempenho
+Objetivo da Avaliação de Desempenho:
+Sim, realizar análises de desempenho em duas versões do Hyperledger Fabric v0.6 e v1.0.
+
+Sistema em Teste e Componente em Estudo:
+Sim.
+
+Técnica de Avaliação Utilizada:
+Sim, simulação.
+
+Métricas:
+Sim, tempo de execução, latência, throughput.
+
+Carga de Trabalho:
+Sim, número de transações (10 a 10.000 transações), número de nós de rede (1 a 20).
+
+Parâmetros, Fatores e Níveis do Sistema e da Carga de Trabalho:
+Sim, justificado parcialmente.
+
+Outros Detalhes sobre a Avaliação:
+Sim, servidor HPC com processador Intel Xeon 64GB de RAM e Ubuntu 16.04, software: Hyperledger Caliper.
+
+Como os Resultados Foram Apresentados:
+Sim, gráficos e tabelas mostrando as métricas de desempenho.
+
+Pontos Fortes e Pontos Fracos Relacionados à ADS
+Pontos Fortes:
+
+-Ampla análise
+-Utilização de métricas relevantes
+-Variedade de cenários
+
+Pontos Fracos:
+
+-Descrição dos métodos
+-Variáveis não controladas
+-Discussão mais profunda dos resultados
+
+Comentário sobre os Pontos Listados:
+Sim. O tema foi bem objetivo e coerente com o assunto sobre as duas versões do Hyperledger, slides de fácil entendimento e coesivos com o artigo.
+
+Detalhes Adicionais
+Artigos com o Número de Páginas Exigido:
+Sim, artigos em inglês com pelo menos 6 páginas e em português com pelo menos 12 páginas.
+
+Formato de Apresentação:
+Sim, as informações coletadas dos artigos foram apresentadas em formato de apresentação de slides (PowerPoint).
+
+Disponibilidade dos Arquivos:
+Sim, todos os arquivos estavam disponíveis online, incluindo slides da apresentação, PDF dos artigos analisados e arquivo com vídeo da apresentação.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Aluno: Felipe Barros Caminha - 564314
+Título do Artigo Avaliado: "Avaliação de Sistemas de Arquivos Distribuídos num Ambiente de Pequena Escala"
+Dados do Artigo
+Título:
+Sim, "Avaliação de Sistemas de Arquivos Distribuídos num Ambiente de Pequena Escala".
+
+Nome dos Autores:
+Sim, Amadeu Andrade Barbosa Jr, Fabíola Greve e Luciano Porto Barreto.
+
+Evento/Periódico em que foi Publicado:
+Sim, XXVII Congresso da SBC.
+
+Ano de Publicação:
+Sim, 2007.
+
+Problema Tratado no Artigo e Objetivo do Artigo:
+Sim, recuperação e armazenamento eficientes de dados.
+
+Dados da Avaliação de Desempenho
+Objetivo da Avaliação de Desempenho:
+Sim, realizar uma análise de uso de alguns sistemas de arquivos atuais para auxiliar administradores de sistemas a fazer uma escolha adequada.
+
+Sistema em Teste e Componente em Estudo:
+Sim, sistemas Lustre, PVFS2 e GlusterFS. Desempenho das operações de escrita e leitura.
+
+Técnica de Avaliação Utilizada:
+Sim, avaliação experimental.
+
+Métricas:
+Sim, taxa de transferência.
+
+Carga de Trabalho:
+Sim, arquivos para as operações de leitura e escrita.
+
+Parâmetros, Fatores e Níveis do Sistema e da Carga de Trabalho:
+Sim, tamanho do arquivo e tamanho do bloco de dados.
+
+Outros Detalhes sobre a Avaliação:
+Sim, servidor de metadados, servidor I/O com processadores como AMD e Intel Pentium4.
+
+Como os Resultados Foram Apresentados:
+Sim, objetivo e coerente com o artigo, bem detalhado.
+
+Pontos Fortes e Pontos Fracos Relacionados à ADS
+Pontos Fortes:
+
+A proposta do artigo para mostrar os resultados foi ótima.
+Pontos Fracos:
+
+Não mostrar um sistema melhor que outro, mas sim as diferenças entre eles.
+Comentário sobre os Pontos Listados:
+Sim, bem objetivo e simples para compreensão.
+
+Detalhes Adicionais
+Artigos com o Número de Páginas Exigido:
+Sim, artigos em inglês com pelo menos 6 páginas e em português com pelo menos 12 páginas.
+
+Formato de Apresentação:
+Sim, as informações coletadas dos artigos foram apresentadas em formato de apresentação de slides (PowerPoint).
+
+Disponibilidade dos Arquivos:
+Sim, todos os arquivos estavam disponíveis online, incluindo slides da apresentação, PDF dos artigos analisados e arquivo com vídeo da apresentação.
