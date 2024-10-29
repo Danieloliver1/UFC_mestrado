@@ -1,0 +1,17 @@
+Matrícula: 564307
+Nível: MESTRADO
+Status: ATIVO
+E-Mail: danieloliveirafff@gmail.com
+Entrada: 2024.1
+Orientador: JOAO PAULO DO VALE MADEIRO
+Área: CIÊNCIA DA COMPUTAÇÃO
+Linha de Pesquisa: TEORIA DA COMPUTAÇÃO
+
+
+Aqui contem o execicio da lista 04 dividido com duas questão de rede neurais 
+Primeira questão de regressão 
+Segunda questão de classificação 
+
+caso não venha da certo os arquivos ou ficar indisponível segue o link da pasta do ggoel drive onde esta amazenado. 
+
+https://drive.google.com/drive/folders/1MdS1Au1_ygz0N4KFDSNZm91rVoZsu6Tv?usp=sharing
