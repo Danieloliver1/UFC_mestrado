@@ -1,0 +1,114 @@
+﻿
+
+==============================================================================
+Reading Network   ---    E:\Repositorio_Git\zz-grafos\para_arquivo_pajek\grafo_viral.net
+==============================================================================
+ Working...
+         130304 lines read.
+ Time spent:  0:00:00
+
+==============================================================================
+All degree centrality of 1. E:\Repositorio_Git\zz-grafos\para_arquivo_pajek\grafo_viral.net (3484)
+==============================================================================
+ Working...
+----------------------------------------------
+Network All Degree Centralization = 0.13881060
+----------------------------------------------
+ Time spent:  0:00:00
+
+==============================================================================
+All closeness centrality of 1. E:\Repositorio_Git\zz-grafos\para_arquivo_pajek\grafo_viral.net (3484)
+==============================================================================
+ Working...
+ 5.74% finished. Time spent: 0:00:00
+11.48% finished. Time spent: 0:00:00
+17.22% finished. Time spent: 0:00:00
+22.96% finished. Time spent: 0:00:01
+28.70% finished. Time spent: 0:00:01
+34.44% finished. Time spent: 0:00:01
+40.18% finished. Time spent: 0:00:01
+45.92% finished. Time spent: 0:00:02
+51.66% finished. Time spent: 0:00:02
+57.41% finished. Time spent: 0:00:02
+63.15% finished. Time spent: 0:00:03
+68.89% finished. Time spent: 0:00:03
+74.63% finished. Time spent: 0:00:03
+80.37% finished. Time spent: 0:00:03
+86.11% finished. Time spent: 0:00:03
+91.85% finished. Time spent: 0:00:04
+97.59% finished. Time spent: 0:00:04
+----------------------------------------------------------------------------------------
+Closeness Centralization cannot be computed since the network is not weakly connected!
+----------------------------------------------------------------------------------------
+ Time spent:  0:00:04
+
+==============================================================================
+Betweenness centrality of 1. E:\Repositorio_Git\zz-grafos\para_arquivo_pajek\grafo_viral.net (3484)
+==============================================================================
+ Working...
+ 5.74% finished. Time spent: 0:00:00
+11.48% finished. Time spent: 0:00:00
+17.22% finished. Time spent: 0:00:01
+22.96% finished. Time spent: 0:00:01
+28.70% finished. Time spent: 0:00:01
+34.44% finished. Time spent: 0:00:01
+40.18% finished. Time spent: 0:00:02
+45.92% finished. Time spent: 0:00:02
+51.66% finished. Time spent: 0:00:02
+57.41% finished. Time spent: 0:00:03
+63.15% finished. Time spent: 0:00:03
+68.89% finished. Time spent: 0:00:03
+74.63% finished. Time spent: 0:00:03
+80.37% finished. Time spent: 0:00:03
+86.11% finished. Time spent: 0:00:04
+91.85% finished. Time spent: 0:00:04
+97.59% finished. Time spent: 0:00:04
+-----------------------------------------------
+Network Betweenness Centralization = 0.03513272
+-----------------------------------------------
+ Time spent:  0:00:04
+
+==============================================================================
+Computing Clustering Coefficients
+==============================================================================
+ Time spent:  0:00:03
+
+==============================================================================
+6. Clustering Coefficients CC2' in N1 (3484)
+==============================================================================
+Dimension: 3484
+The lowest value:                         0.0000
+The highest value:                        0.6172
+Missing values:                         271 (values larger than 999999997)
+
+Highest values: 
+
+      Rank    Vertex                       Value   Id
+--------------------------------------------------------
+         1        47                      0.6172   3b7dfe232868b409b22d6717df3e3851
+         2        56                      0.5733   5edf52cacaced85501ff2c59d316d696
+         3       498                      0.4267   2d605bc24394c0da876e439c80785ca0
+         4       477                      0.4267   0eadc6a722c927f976244c702d2ee744
+         5       597                      0.4267   e2e0bbe01bcf9b3255396eeede91f3f9
+--------------------------------------------------------
+Sum (all values):                       159.5347
+
+The following statistics computed only for non-missing values:
+values smaller than 999999998 (3213 values).
+
+Arithmetic mean:                          0.0497
+Median:                                   0.0173
+Standard deviation:                       0.0739
+ 2.5% Quantile:                           0.0001
+ 5.0% Quantile:                           0.0002
+95.0% Quantile:                           0.2258
+97.5% Quantile:                           0.2258
+
+       Vector Values                                 Frequency       Freq%     CumFreq  CumFreq%
+------------------------------------------------------------------------------------------------
+ (                       ...                0.0000]          1      0.0311           1    0.0311
+ (                0.0000 ...                0.2057]       2926     91.0675        2927   91.0987
+ (                0.2057 ...                0.4115]        271      8.4345        3198   99.5331
+ (                0.4115 ...                0.6172]         15      0.4669        3213  100.0000
+------------------------------------------------------------------------------------------------
+  Total                                                   3213    100.0000
